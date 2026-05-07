@@ -1,4 +1,4 @@
 # ourcollege-demo
 This is my first Git Repository.
 <br>
-Author - Pritam Bhattacharya
+Author - Pritam Bhattacharya(my  college)
